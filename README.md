@@ -1,6 +1,6 @@
 # 🛒 Skinet [EM CONSTRUÇÃO]
 
-Projeto de estudo de um e-commerce desenvolvido com **.NET 9** no backend e **Angular** no frontend.  
+Projeto de estudos de um e-commerce desenvolvido com **.NET 9** no backend e **Angular** no frontend.  
 O objetivo principal é aprofundar meus conhecimentos em desenvolvimento web com .NET, explorando conceitos como API RESTful, Entity Framework Core, autenticação, consumo de APIs no Angular, entre outros.
 
 ---
@@ -45,7 +45,7 @@ O objetivo principal é aprofundar meus conhecimentos em desenvolvimento web com
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/skinet.git
+git clone https://github.com/PamelaMBadermann/skinet-ecommerce.git
 
 # Backend
 cd skinet/API
@@ -75,4 +75,3 @@ ng serve
 Caso tenha interesse em trocar experiências ou acompanhar minha jornada, você pode me encontrar por aqui:
 
 - [LinkedIn](https://www.linkedin.com/in/pamelabadermann/)
-- [GitHub](https://github.com/PamelaMBadermann/)
