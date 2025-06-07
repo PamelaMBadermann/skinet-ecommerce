@@ -57,6 +57,7 @@ dotnet run
 cd ../client
 npm install
 ng serve
+```
 
 ## 📁 Estrutura do Projeto
 /skinet
@@ -71,5 +72,3 @@ Caso tenha interesse em trocar experiências ou acompanhar minha jornada, você 
 
 - [LinkedIn](https://www.linkedin.com/in/pamelabadermann/)
 - [GitHub](https://github.com/PamelaMBadermann/)
-
-
