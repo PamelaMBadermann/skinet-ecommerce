@@ -24,7 +24,7 @@ O objetivo principal é aprofundar meus conhecimentos em desenvolvimento web com
 - AutoMapper
 - PostgreSQL
 - JWT para autenticação
-- Swagger
+- Postman
 
 ### Frontend
 - Angular 17
