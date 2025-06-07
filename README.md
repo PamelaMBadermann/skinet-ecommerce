@@ -60,11 +60,15 @@ ng serve
 ```
 
 ## 📁 Estrutura do Projeto
+
+```text
 /skinet
   ├── API               # Projeto principal do backend
   ├── Core              # Entidades e interfaces
   ├── Infrastructure    # Implementações de acesso a dados
   └── client            # Aplicação Angular
+```
+
 
 ## 📬 Contato
 
