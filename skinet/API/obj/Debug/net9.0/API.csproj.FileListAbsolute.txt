@@ -6,8 +6,6 @@ C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\API\bin\Debug\n
 C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\API\bin\Debug\net9.0\API.runtimeconfig.json
 C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\API\bin\Debug\net9.0\API.dll
 C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\API\bin\Debug\net9.0\API.pdb
-C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\API\bin\Debug\net9.0\Microsoft.OpenApi.dll
 C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\API\bin\Debug\net9.0\Core.dll
 C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\API\bin\Debug\net9.0\Infrastructure.dll
 C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\API\bin\Debug\net9.0\Infrastructure.pdb
@@ -17,7 +15,6 @@ C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\API\obj\Debug\n
 C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\API\obj\Debug\net9.0\API.AssemblyInfoInputs.cache
 C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\API\obj\Debug\net9.0\API.AssemblyInfo.cs
 C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\API\obj\Debug\net9.0\API.csproj.CoreCompileInputs.cache
-C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\API\obj\Debug\net9.0\API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\API\obj\Debug\net9.0\API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\API\obj\Debug\net9.0\scopedcss\bundle\API.styles.css
 C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\API\obj\Debug\net9.0\staticwebassets.build.json
@@ -35,3 +32,4 @@ C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\API\obj\Debug\n
 C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\API\obj\Debug\net9.0\API.pdb
 C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\API\obj\Debug\net9.0\API.genruntimeconfig.cache
 C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\API\obj\Debug\net9.0\ref\API.dll
+C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\API\obj\Debug\net9.0\API.sourcelink.json

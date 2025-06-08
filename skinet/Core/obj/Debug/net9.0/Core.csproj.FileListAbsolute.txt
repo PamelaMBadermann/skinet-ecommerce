@@ -9,3 +9,4 @@ C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\Core\obj\Debug\
 C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\Core\obj\Debug\net9.0\refint\Core.dll
 C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\Core\obj\Debug\net9.0\Core.pdb
 C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\Core\obj\Debug\net9.0\ref\Core.dll
+C:\Users\pamel_sg0z93s\OneDrive\Documentos\DotnetProjects\skinet\Core\obj\Debug\net9.0\Core.sourcelink.json
