@@ -22,7 +22,7 @@ O objetivo principal é aprofundar meus conhecimentos em desenvolvimento web com
 - .NET 9
 - Entity Framework Core
 - AutoMapper
-- PostgreSQL
+- SQL Server
 - JWT para autenticação
 - Postman
 
@@ -39,7 +39,7 @@ O objetivo principal é aprofundar meus conhecimentos em desenvolvimento web com
 ### Pré-requisitos
 - [.NET 9 SDK](https://dotnet.microsoft.com/) instalado
 - [Node.js](https://nodejs.org/) e [Angular CLI](https://angular.io/cli) instalados
-- [PostgreSQL](https://www.postgresql.org/) instalado e configurado
+- SQL Server instalado e configurado
 
 ### Passos
 
