@@ -21,14 +21,13 @@ O objetivo principal é aprofundar meus conhecimentos em desenvolvimento web com
 ### Backend
 - .NET 9
 - Entity Framework Core
-- AutoMapper
 - SQL Server
 - JWT para autenticação
+- Docker
 - Postman
 
 ### Frontend
-- Angular 17
-- RxJS
+- Angular 18
 - Angular Material
 - Consumo de API via HttpClient
 
