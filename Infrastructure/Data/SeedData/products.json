@@ -1,0 +1,92 @@
+[
+  {
+    "Name": "Winter Gloves - Touchscreen Compatible",
+    "Description": "lorem ipsum",
+    "Price": 19,
+    "PictureUrl": "http://placeimg.com/640/480",
+    "Type": "triplo",
+    "Brand": "marca da barata",
+    "QuantityInStock": 1
+  },
+  {
+    "Name": "Winter Hat with Draw String",
+    "Description": "lorem ipsum",
+    "Price": 15,
+    "PictureUrl": "http://placeimg.com/640/480",
+    "Type": "quadruplo",
+    "Brand": "marca da barata",
+    "QuantityInStock": 2
+  },
+  {
+    "Name": "Khaki Pants",
+    "Description": "lorem ipsum",
+    "Price": 39,
+    "PictureUrl": "http://placeimg.com/640/480",
+    "Type": "duplo",
+    "Brand": "marca da barata",
+    "QuantityInStock": 22
+  },
+  {
+    "Name": "Floral Dress",
+    "Description": "lorem ipsum",
+    "Price": 25,
+    "PictureUrl": "http://placeimg.com/640/480",
+    "Type": "triplo",
+    "Brand": "marca da barata",
+    "QuantityInStock": 13
+  },
+  {
+    "Name": "Red Floral Dress",
+    "Description": "lorem ipsum",
+    "Price": 56,
+    "PictureUrl": "http://placeimg.com/640/480",
+    "Type": "duplo",
+    "Brand": "marca da mosca",
+    "QuantityInStock": 65
+  },
+  {
+    "Name": "Beanie Hat",
+    "Description": "lorem ipsum",
+    "Price": 9,
+    "PictureUrl": "http://placeimg.com/640/480",
+    "Type": "quadruplo",
+    "Brand": "marca da adibos",
+    "QuantityInStock": 3
+  },
+  {
+    "Name": "Womens Blue Jeans",
+    "Description": "lorem ipsum",
+    "Price": 25,
+    "PictureUrl": "http://placeimg.com/640/480",
+    "Type": "duplo",
+    "Brand": "zulu",
+    "QuantityInStock": 25
+  },
+  {
+    "Name": "Men's Blue Jeans",
+    "Description": "lorem ipsum",
+    "Price": 25,
+    "PictureUrl": "http://placeimg.com/640/480",
+    "Type": "duplo",
+    "Brand": "marca da pegada",
+    "QuantityInStock": 4
+  },
+  {
+    "Name": "Women's Dark Jeans",
+    "Description": "lorem ipsum",
+    "Price": 25,
+    "PictureUrl": "http://placeimg.com/640/480",
+    "Type": "duplo",
+    "Brand": "zulu",
+    "QuantityInStock": 1
+  },
+  {
+    "Name": "Adidas Hat",
+    "Description": "lorem ipsum",
+    "Price": 39,
+    "PictureUrl": "http://placeimg.com/640/480",
+    "Type": "duplo",
+    "Brand": "marca da barata",
+    "QuantityInStock": 1
+  }
+]
