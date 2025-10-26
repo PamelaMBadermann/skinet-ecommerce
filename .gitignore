@@ -3,6 +3,10 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
+# Docker
+docker-compose.yml
+*.yml
+
 # dotenv files
 .env
 
@@ -482,6 +486,3 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
-
-# Docker
-docker-compose.yml
