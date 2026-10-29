@@ -2,15 +2,15 @@
 
 Projeto de estudos de um e-commerce desenvolvido com **C# e .NET 9**.
 
-Estou usando esse projeto para praticar desenvolvimento de APIs com ASP.NET Core, trabalhar com Entity Framework Core e aprender mais sobre organização de código e acesso a dados. A ideia é continuar evoluindo o projeto e, futuramente, adicionar o frontend com Angular.
+Estou usando esse projeto para praticar desenvolvimento de APIs com ASP.NET Core, Entity Framework Core e organização de código. Futuramente, pretendo adicionar o frontend com Angular.
 
 ## 🎯 Objetivos
 
 - Praticar C# e ASP.NET Core
-- Criar e consumir APIs REST
+- Desenvolver APIs REST
 - Trabalhar com Entity Framework Core e SQL Server
 - Estudar os padrões Repository e Specification
-- Implementar autenticação e integrar com Angular futuramente
+- Implementar autenticação e integrar com Angular
 
 ## 🛠️ Tecnologias
 
@@ -18,38 +18,30 @@ Estou usando esse projeto para praticar desenvolvimento de APIs com ASP.NET Core
 - ASP.NET Core Web API
 - Entity Framework Core
 - SQL Server
+- Docker
 
-## ✅ O que já foi feito
+## ✅ Funcionalidades implementadas
 
-- Cadastro, listagem, edição e exclusão de produtos
+- CRUD de produtos
 - Consulta de produtos por ID
-- Listagem de marcas e tipos de produtos
-- Repositórios e specifications para as consultas
-- Migrations e dados iniciais do banco
+- Listagem de marcas e tipos
+- Repository e Specification Pattern
+- Migrations e seed de dados
 
-## 🚀 Como rodar o projeto
+## 🚀 Como executar
 
-### Pré-requisitos
+**Pré-requisitos:** .NET SDK 9, SQL Server (local ou Docker) e Entity Framework Core CLI.
 
-- [.NET SDK 9](https://dotnet.microsoft.com/download/dotnet/9.0)
-- SQL Server instalado e em execução
-- [Git](https://git-scm.com/)
-- Entity Framework Core CLI (para executar migrations pelo terminal)
-
-### Passos
-
-**1. Clone o repositório:**
+1. Clone o repositório:
 
 ```bash
 git clone https://github.com/PamelaMBadermann/skinet-ecommerce.git
 cd skinet-ecommerce
 ```
 
-**2. Configure o banco:**
+2. Copie `API/appsettings.Development.example.json` para `API/appsettings.Development.json` e configure a connection string.
 
-No arquivo `API/appsettings.Development.json`, ajuste a connection string `DefaultConnection` com os dados do seu SQL Server.
-
-**3. Execute a API:**
+3. Execute a API:
 
 ```bash
 cd API
@@ -57,19 +49,13 @@ dotnet restore
 dotnet run
 ```
 
-Ao iniciar, a API aplica as migrations e insere os dados iniciais automaticamente.
-
-Se precisar executar as migrations manualmente, dentro da pasta `API` use:
-
-```bash
-dotnet ef database update --project ../Infrastructure --startup-project .
-```
+As migrations e os dados iniciais são aplicados automaticamente ao iniciar a API.
 
 ## 📁 Estrutura do projeto
 
 ```text
 skinet-ecommerce/
-├── API/              # Controllers e configuração da API
+├── API/              # Controllers e configuração
 ├── Core/             # Entidades e interfaces
 └── Infrastructure/   # Acesso a dados e migrations
 ```
