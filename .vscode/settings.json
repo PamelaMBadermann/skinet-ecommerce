@@ -1,0 +1,4 @@
+{
+  "typescript.tsdk": "frontend/client/node_modules/typescript/lib",
+  "js/ts.tsdk.path": "frontend/client/node_modules/typescript/lib"
+}
