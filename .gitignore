@@ -60,3 +60,5 @@ Thumbs.db
 # JetBrains Rider
 .idea/
 *.sln.iml
+
+**/ssl/
