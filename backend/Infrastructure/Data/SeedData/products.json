@@ -1,92 +1,93 @@
+
 [
   {
-    "Name": "Winter Gloves - Touchscreen Compatible",
-    "Description": "lorem ipsum",
-    "Price": 19,
-    "PictureUrl": "http://placeimg.com/640/480",
-    "Type": "triplo",
-    "Brand": "marca da barata",
-    "QuantityInStock": 1
-  },
-  {
-    "Name": "Winter Hat with Draw String",
-    "Description": "lorem ipsum",
-    "Price": 15,
-    "PictureUrl": "http://placeimg.com/640/480",
-    "Type": "quadruplo",
-    "Brand": "marca da barata",
-    "QuantityInStock": 2
-  },
-  {
-    "Name": "Khaki Pants",
-    "Description": "lorem ipsum",
-    "Price": 39,
-    "PictureUrl": "http://placeimg.com/640/480",
-    "Type": "duplo",
-    "Brand": "marca da barata",
-    "QuantityInStock": 22
-  },
-  {
-    "Name": "Floral Dress",
-    "Description": "lorem ipsum",
-    "Price": 25,
-    "PictureUrl": "http://placeimg.com/640/480",
-    "Type": "triplo",
-    "Brand": "marca da barata",
-    "QuantityInStock": 13
-  },
-  {
-    "Name": "Red Floral Dress",
-    "Description": "lorem ipsum",
-    "Price": 56,
-    "PictureUrl": "http://placeimg.com/640/480",
-    "Type": "duplo",
-    "Brand": "marca da mosca",
-    "QuantityInStock": 65
-  },
-  {
-    "Name": "Beanie Hat",
-    "Description": "lorem ipsum",
-    "Price": 9,
-    "PictureUrl": "http://placeimg.com/640/480",
-    "Type": "quadruplo",
-    "Brand": "marca da adibos",
-    "QuantityInStock": 3
-  },
-  {
-    "Name": "Womens Blue Jeans",
-    "Description": "lorem ipsum",
-    "Price": 25,
-    "PictureUrl": "http://placeimg.com/640/480",
-    "Type": "duplo",
-    "Brand": "zulu",
+    "Name": "Máscara de Cílios Lash Princess",
+    "Description": "Máscara de cílios preta com efeito de volume e alongamento.",
+    "Price": 39.90,
+    "PictureUrl": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp",
+    "Type": "Máscara de cílios",
+    "Brand": "Essence",
     "QuantityInStock": 25
   },
   {
-    "Name": "Men's Blue Jeans",
-    "Description": "lorem ipsum",
-    "Price": 25,
-    "PictureUrl": "http://placeimg.com/640/480",
-    "Type": "duplo",
-    "Brand": "marca da pegada",
-    "QuantityInStock": 4
+    "Name": "Paleta de Sombras com Espelho",
+    "Description": "Paleta de sombras com diferentes tonalidades para criar maquiagens versáteis.",
+    "Price": 89.90,
+    "PictureUrl": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp",
+    "Type": "Sombras",
+    "Brand": "Glam Beauty",
+    "QuantityInStock": 18
   },
   {
-    "Name": "Women's Dark Jeans",
-    "Description": "lorem ipsum",
-    "Price": 25,
-    "PictureUrl": "http://placeimg.com/640/480",
-    "Type": "duplo",
-    "Brand": "zulu",
-    "QuantityInStock": 1
+    "Name": "Batom Vermelho Clássico",
+    "Description": "Batom vermelho de acabamento intenso, ideal para destacar os lábios.",
+    "Price": 34.90,
+    "PictureUrl": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp",
+    "Type": "Batom",
+    "Brand": "Glam Beauty",
+    "QuantityInStock": 30
   },
   {
-    "Name": "Adidas Hat",
-    "Description": "lorem ipsum",
-    "Price": 39,
-    "PictureUrl": "http://placeimg.com/640/480",
-    "Type": "duplo",
-    "Brand": "marca da barata",
-    "QuantityInStock": 1
+    "Name": "Esmalte Vermelho Intenso",
+    "Description": "Esmalte vermelho com acabamento brilhante e cor marcante.",
+    "Price": 14.90,
+    "PictureUrl": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/1.webp",
+    "Type": "Esmalte",
+    "Brand": "Color Studio",
+    "QuantityInStock": 45
+  },
+  {
+    "Name": "Pó Facial Compacto",
+    "Description": "Pó facial para finalizar a maquiagem e ajudar a controlar o brilho.",
+    "Price": 49.90,
+    "PictureUrl": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp",
+    "Type": "Pó facial",
+    "Brand": "Glam Beauty",
+    "QuantityInStock": 20
+  },
+  {
+    "Name": "Máscara de Cílios Volume",
+    "Description": "Máscara para realçar os cílios e complementar a maquiagem dos olhos.",
+    "Price": 42.90,
+    "PictureUrl": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp",
+    "Type": "Máscara de cílios",
+    "Brand": "Essence",
+    "QuantityInStock": 16
+  },
+  {
+    "Name": "Paleta de Sombras Tons Neutros",
+    "Description": "Paleta de sombras para compor looks delicados e maquiagens para o dia a dia.",
+    "Price": 79.90,
+    "PictureUrl": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp",
+    "Type": "Sombras",
+    "Brand": "Glam Beauty",
+    "QuantityInStock": 12
+  },
+  {
+    "Name": "Batom Vermelho Matte",
+    "Description": "Batom de cor vermelha com acabamento aveludado para uma maquiagem marcante.",
+    "Price": 37.90,
+    "PictureUrl": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp",
+    "Type": "Batom",
+    "Brand": "Glam Beauty",
+    "QuantityInStock": 28
+  },
+  {
+    "Name": "Esmalte Vermelho Brilhante",
+    "Description": "Esmalte com cor intensa e acabamento luminoso para as unhas.",
+    "Price": 16.90,
+    "PictureUrl": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/1.webp",
+    "Type": "Esmalte",
+    "Brand": "Color Studio",
+    "QuantityInStock": 32
+  },
+  {
+    "Name": "Pó Facial de Acabamento",
+    "Description": "Pó para ajudar a uniformizar a aparência da pele e finalizar a maquiagem.",
+    "Price": 54.90,
+    "PictureUrl": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp",
+    "Type": "Pó facial",
+    "Brand": "Glam Beauty",
+    "QuantityInStock": 14
   }
 ]
