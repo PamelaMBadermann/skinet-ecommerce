@@ -27,7 +27,7 @@ export class ShopService {
     }
 
     getTypes() {
-      if (this.brands.length > 0) return;
+      if (this.types.length > 0) return;
 
       return this.http.get<string[]>(this.baseUrl + 'products/types').subscribe({
         next: response => this.types = response
