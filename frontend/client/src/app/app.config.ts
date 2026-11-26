@@ -8,6 +8,12 @@ import { provideHttpClient } from '@angular/common/http';
 import { MatPaginatorIntl } from '@angular/material/paginator';
 import { CustomPaginatorIntl } from './shared/utils/paginator-intl';
 
+import { LOCALE_ID, DEFAULT_CURRENCY_CODE } from '@angular/core';
+import { registerLocaleData } from '@angular/common';
+import localePt from '@angular/common/locales/pt';
+
+registerLocaleData(localePt);
+
 export const appConfig: ApplicationConfig = {
   providers: [
     provideBrowserGlobalErrorListeners(),
@@ -17,6 +23,8 @@ export const appConfig: ApplicationConfig = {
     {
       provide: MatPaginatorIntl,
       useClass: CustomPaginatorIntl
-    }
+    },
+    { provide: LOCALE_ID, useValue: 'pt-BR' },
+    { provide: DEFAULT_CURRENCY_CODE, useValue: 'BRL' }
   ]
 };
