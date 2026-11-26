@@ -1,9 +1,12 @@
 <header class="shadow-md p-3 w-full">
     <div class="flex align-middle items-center justify-between max-w-sc-2xl mx-auto">
-        <img src="/images/icone-sacola-sem-texto-e-sem-fundo-para-dark-theme.png" alt="app logo" class="max-h-16">
-        <nav class="flex gap-3 my-2 uppercase text-xl">
-            <a>Início</a>
-            <a>Loja</a>
+        <img routerLink="/" src="/images/icone-sacola-sem-texto-e-sem-fundo-para-dark-theme.png" alt="app logo" class="max-h-16">
+        <nav class="flex gap-3 my-2 uppercase text-2xl">
+            <a routerLink="/"
+                routerLinkActive="active"
+                [routerLinkActiveOptions]="{exact: true}"
+            >Início</a>
+            <a routerLink="/shop" routerLinkActive="active">Loja</a>
             <a>Contato</a>
         </nav>
         <div class="flex gap-3 align-middle">
