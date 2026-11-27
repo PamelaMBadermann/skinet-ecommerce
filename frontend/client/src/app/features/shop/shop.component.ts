@@ -35,9 +35,9 @@ export class ShopComponent implements OnInit {
   private dialogService = inject(MatDialog);
   products?: Pagination<Product>;
   sortOptions =[
-    {name: 'Ordem Alfabetica', value: 'name'},
-    {name: 'Preço: Baixo-Alto', value: 'priceAsc'},
-    {name: 'Preço: Alto-Baixo', value: 'priceDesc'},
+    {name: 'Ordem Alfabética', value: 'name'},
+    {name: 'Menor preço', value: 'priceAsc'},
+    {name: 'Maior preço', value: 'priceDesc'},
   ]
   shopParams = new ShopParams();
   pageSizeOptions = [5, 10, 15, 20]
